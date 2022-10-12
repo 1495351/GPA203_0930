@@ -6,4 +6,8 @@ En los siguientes apartados profundizaremos en la base de datos y responderemos 
 
 Usamos la base de datos de Kaggle:
 
-(https://www.kaggle.com/vikrishnan/boston-house-prices)
+https://www.kaggle.com/vikrishnan/boston-house-prices
+
+En este GitHub está la memoria de esta práctica, junto con el notebook con el código. 
+
+También se dispone de la presentación del trabajo.
